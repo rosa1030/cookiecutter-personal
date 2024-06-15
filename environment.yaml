@@ -1,0 +1,6 @@
+name: cookiecutter-personal
+channels:
+  - conda-forge
+dependencies:
+  - cookiecutter=2.5.0
+prefix: /home/rosamari/miniforge3/envs/cookiecutter-personal
